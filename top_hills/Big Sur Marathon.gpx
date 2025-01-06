@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx creator="Garmin Connect" version="1.1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd http://www.garmin.com/xmlschemas/PowerExtension/v1 http://www.garmin.com/xmlschemas/PowerExtensionv1.xsd http://www.topografix.com/GPX/gpx_style/0/2 http://www.topografix.com/GPX/gpx_style/0/2/gpx_style.xsd" xmlns:ns3="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:gpxpx="http://www.garmin.com/xmlschemas/PowerExtension/v1" xmlns:gpx_style="http://www.topografix.com/GPX/gpx_style/0/2">
+  <metadata>
+    <name>Big Sur Internation Marathon 2024 - 42.195 km</name>
+    <author>
+      <name>gpx.studio</name>
+      <link href="https://gpx.studio"/>
+    </author>
+    <link href="https://www.goandrace.com">
+      <text>Garmin Connect</text>
+    </link>
+    <time>2024-12-17T09:05:11.000Z</time>
+  </metadata>
+  <trk>
+    <name>Big Sur Internation Marathon 2024 - 42.195 km</name>
+    <trkseg>
+      <trkpt lat="36.33741" lon="-121.89156">
+        <ele>10</ele>
+      </trkpt>
+      <trkpt lat="36.33776" lon="-121.89145">
+        <ele>14</ele>
+      </trkpt>
+      <trkpt lat="36.33826" lon="-121.89119">
+        <ele>17</ele>
+      </trkpt>
+      <trkpt lat="36.33874" lon="-121.89123">
+        <ele>27</ele>
+      </trkpt>
+      <trkpt lat="36.33899" lon="-121.89121">
+        <ele>30</ele>
+      </trkpt>
+      <trkpt lat="36.33985" lon="-121.89098">
+        <ele>34</ele>
+      </trkpt>
+      <trkpt lat="36.34025" lon="-121.89077">
+        <ele>38</ele>
+      </trkpt>
+      <trkpt lat="36.34083" lon="-121.8907">
+        <ele>42</ele>
+      </trkpt>
+      <trkpt lat="36.34103" lon="-121.89073">
+        <ele>48</ele>
+      </trkpt>
+      <trkpt lat="36.34138" lon="-121.89104">
+        <ele>52</ele>
+      </trkpt>
+      <trkpt lat="36.34152" lon="-121.89114">
+        <ele>57</ele>
+      </trkpt>
+      <trkpt lat="36.3422" lon="-121.89136">
+        <ele>61</ele>
+      </trkpt>
+      <trkpt lat="36.34238" lon="-121.89149">
+        <ele>66</ele>
+      </trkpt>
+      <trkpt lat="36.34276" lon="-121.89183">
+        <ele>74</ele>
+      </trkpt>
+      <trkpt lat="36.34291" lon="-121.8919">
+        <ele>76</ele>
+      </trkpt>
+      <trkpt lat="36.34316" lon="-121.89192">
+        <ele>82</ele>
+      </trkpt>
+      <trkpt lat="36.34339" lon="-121.89186">
+        <ele>88</ele>
+      </trkpt>
+      <trkpt lat="36.34369" lon="-121.8918">
+        <ele>90</ele>
+      </trkpt>
+      <trkpt lat="36.34394" lon="-121.89184">
+        <ele>97</ele>
+      </trkpt>
+      <trkpt lat="36.34429" lon="-121.89207">
+        <ele>100</ele>
+      </trkpt>
+      <trkpt lat="36.34438" lon="-121.89222">
+        <ele>104</ele>
+      </trkpt>
+      <trkpt lat="36.34475" lon="-121.89299">
+        <ele>110</ele>
+      </trkpt>
+      <trkpt lat="36.34505" lon="-121.89328">
+        <ele>115</ele>
+      </trkpt>
+      <trkpt lat="36.3453" lon="-121.89343">
+        <ele>124</ele>
+      </trkpt>
+      <trkpt lat="36.34549" lon="-121.89364">
+        <ele>123</ele>
+      </trkpt>
+      <trkpt lat="36.3456" lon="-121.89386">
+        <ele>128</ele>
+      </trkpt>
+      <trkpt lat="36.34595" lon="-121.8946">
+        <ele>131</ele>
+      </trkpt>
+      <trkpt lat="36.34606" lon="-121.8947">
+        <ele>132</ele>
+      </trkpt>
+      <trkpt lat="36.34646" lon="-121.89485">
+        <ele>135</ele>
+      </trkpt>
+      <trkpt lat="36.34671" lon="-121.89491">
+        <ele>134</ele>
+      </trkpt>
+      <trkpt lat="36.34694" lon="-121.89507">
+        <ele>137</ele>
+      </trkpt>
+      <trkpt lat="36.34709" lon="-121.89532">
+        <ele>140</ele>
+      </trkpt>
+      <trkpt lat="36.34745" lon="-121.89591">
+        <ele>139</ele>
+      </trkpt>
+      <trkpt lat="36.34767" lon="-121.89609">
+        <ele>141</ele>
+      </trkpt>
+      <trkpt lat="36.34854" lon="-121.89657">
+        <ele>145</ele>
+      </trkpt>
+      <trkpt lat="36.34916" lon="-121.89675">
+        <ele>149</ele>
+      </trkpt>
+      <trkpt lat="36.35005" lon="-121.89712">
+        <ele>155</ele>
+      </trkpt>
+      <trkpt lat="36.35026" lon="-121.89726">
+        <ele>158</ele>
+      </trkpt>
+      <trkpt lat="36.35076" lon="-121.89768">
+        <ele>159</ele>
+      </trkpt>
+      <trkpt lat="36.35092" lon="-121.89778">
+        <ele>163</ele>
+      </trkpt>
+      <trkpt lat="36.35119" lon="-121.8978">
+        <ele>168</ele>
+      </trkpt>
+      <trkpt lat="36.35174" lon="-121.89773">
+        <ele>168</ele>
+      </trkpt>
+      <trkpt lat="36.35184" lon="-121.89777">
+        <ele>172</ele>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

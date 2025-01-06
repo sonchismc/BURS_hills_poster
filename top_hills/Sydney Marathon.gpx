@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx creator="Garmin Connect" version="1.1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd http://www.garmin.com/xmlschemas/PowerExtension/v1 http://www.garmin.com/xmlschemas/PowerExtensionv1.xsd http://www.topografix.com/GPX/gpx_style/0/2 http://www.topografix.com/GPX/gpx_style/0/2/gpx_style.xsd" xmlns:ns3="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:gpxpx="http://www.garmin.com/xmlschemas/PowerExtension/v1" xmlns:gpx_style="http://www.topografix.com/GPX/gpx_style/0/2">
+  <metadata>
+    <name>TCS Sydney Marathon - 42.195 km</name>
+    <author>
+      <name>gpx.studio</name>
+      <link href="https://gpx.studio"/>
+    </author>
+    <link href="https://www.goandrace.com">
+      <text>Garmin Connect</text>
+    </link>
+    <time>2024-12-17T09:09:00.000Z</time>
+  </metadata>
+  <trk>
+    <name>TCS Sydney Marathon - 42.195 km</name>
+    <trkseg>
+      <trkpt lat="-33.86026" lon="151.20863">
+        <ele>18.2</ele>
+      </trkpt>
+      <trkpt lat="-33.86059" lon="151.20855">
+        <ele>19.7</ele>
+      </trkpt>
+      <trkpt lat="-33.86082" lon="151.20851">
+        <ele>21.7</ele>
+      </trkpt>
+      <trkpt lat="-33.86097" lon="151.20845">
+        <ele>24.4</ele>
+      </trkpt>
+      <trkpt lat="-33.861427" lon="151.208413">
+        <ele>27.6</ele>
+      </trkpt>
+      <trkpt lat="-33.861494" lon="151.209239">
+        <ele>31.4</ele>
+      </trkpt>
+      <trkpt lat="-33.862229" lon="151.209137">
+        <ele>34.8</ele>
+      </trkpt>
+      <trkpt lat="-33.86271" lon="151.20909">
+        <ele>38.7</ele>
+      </trkpt>
+      <trkpt lat="-33.86313" lon="151.20901">
+        <ele>43.8</ele>
+      </trkpt>
+      <trkpt lat="-33.86355" lon="151.20895">
+        <ele>49.8</ele>
+      </trkpt>
+      <trkpt lat="-33.86385" lon="151.20891">
+        <ele>54.8</ele>
+      </trkpt>
+      <trkpt lat="-33.86478" lon="151.20877">
+        <ele>60.3</ele>
+      </trkpt>
+      <trkpt lat="-33.86554" lon="151.20867">
+        <ele>63.1</ele>
+      </trkpt>
+      <trkpt lat="-33.86731" lon="151.20847">
+        <ele>66</ele>
+      </trkpt>
+      <trkpt lat="-33.86884" lon="151.2083">
+        <ele>68.1</ele>
+      </trkpt>
+      <trkpt lat="-33.86903" lon="151.20971">
+        <ele>69.8</ele>
+      </trkpt>
+      <trkpt lat="-33.86912" lon="151.21019">
+        <ele>70.5</ele>
+      </trkpt>
+      <trkpt lat="-33.86914" lon="151.21038">
+        <ele>71.6</ele>
+      </trkpt>
+      <trkpt lat="-33.86882" lon="151.21047">
+        <ele>73</ele>
+      </trkpt>
+      <trkpt lat="-33.86855" lon="151.21049">
+        <ele>72.9</ele>
+      </trkpt>
+      <trkpt lat="-33.86804" lon="151.21055">
+        <ele>72</ele>
+      </trkpt>
+      <trkpt lat="-33.86727" lon="151.21063">
+        <ele>71.9</ele>
+      </trkpt>
+      <trkpt lat="-33.86717" lon="151.21065">
+        <ele>73.9</ele>
+      </trkpt>
+      <trkpt lat="-33.86633" lon="151.21076">
+        <ele>75.5</ele>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>
